@@ -1,0 +1,121 @@
+[
+  {
+    "Ville": "Agadir",
+    "Nom": "Université Ibnou Zohr",
+    "Adresse": "Université Ibn Zohr - BP 32/S Agadir",
+    "Téléphone": "(+212) 05 28 22 71 25",
+    "Fax": "(+212) 05 28 22 72 60",
+    "Site web": "www.univ-ibnzohr.ac.ma/"
+  },
+  {
+    "Ville": "Béni Mellal",
+    "Nom": "Université Sultan Moulay Slimane",
+    "Adresse": "BP. 591 - 23000, Beni-Mellal",
+    "Téléphone": "(+212) 05 23 48 02 18",
+    "Fax": "(+212) 05 23 48 13 51",
+    "Site web": "www.usms.ma/"
+  },
+  {
+    "Ville": "Casablanca",
+    "Nom": "Université Hassan II Aïn Chock",
+    "Adresse": "19 Rue Tarik Bnou Ziad  -Casablanca",
+    "Téléphone": "(+212) 05 22 27 37 37",
+    "Fax": "(+212) 05 22 27 61 50",
+    "Site web": "www.uh2c.ac.ma/"
+  },
+  {
+    "Ville": "El Jadida ",
+    "Nom": "Université Chouaïb Eddoukkali ",
+    "Adresse": "Av. Jabrane Khalil Jabrane B.P.299 -El Jadida",
+    "Téléphone": "(+212) 05 23 34 44 47",
+    "Fax": "(+212) 05 23 34 44 49",
+    "Site web": "www.ucd.ac.ma/"
+  },
+  {
+    "Ville": "Fès ",
+    "Nom": "Université Al Quaraouiyine ",
+    "Adresse": " Présidence, B.P : 2509 - Fès",
+    "Téléphone": "(+212) 05 35 64 10 06",
+    "Fax": "(+212) 05 35 64 10 13"
+  },
+  {
+    "Ville": "Fès ",
+    "Nom": "Université Sidi Mohammed Ben Abdellah",
+    "Adresse": "Route d'Imouzzer B.P.2626 - Fès",
+    "Téléphone": "(+212) 05 35 60 96 60 ",
+    "Fax": "(+212) 05 35 60 96 50",
+    "Site web": "www.usmba.ac.ma/"
+  },
+  {
+    "Ville": "Kénitra",
+    "Nom": "Université Ibn Tofaîl",
+    "Adresse": "Campus Universitaire, B.P 242 Av. de L'Université, Kénitra",
+    "Téléphone": "(+212) 05 37 32 92 00",
+    "Fax": "(+212) 05 37 37 40 52",
+    "Site web": "www.univ-ibntofail.ac.ma/"
+  },
+  {
+    "Ville": "Marrakech",
+    "Nom": "Université Cadi Ayyad",
+    "Adresse": "Av. Prince Moulay Abdellah, B.P. 511 -Marrakech",
+    "Téléphone": "(+212) 05 24 43 48 13",
+    "Fax": "(+212) 05 24 43 44 94",
+    "Site web": "www.ucam.ac.ma/"
+  },
+  {
+    "Ville": "Meknès",
+    "Nom": "Université Moulay Ismaîl",
+    "Adresse": "Présidence, Marjane 2, B.P:298, Meknès",
+    "Téléphone": "(+212) 05 35 46 73 06",
+    "Fax": "(+212) 05 35 46 73 05",
+    "Site web": "www.umi.ac.ma/"
+  },
+  {
+    "Ville": "Mohammedia",
+    "Nom": "Université Hassan II de Mohammedia",
+    "Adresse": "Av.Hassan II - B.P 150 - Mohammedia",
+    "Téléphone": "(+212) 05 23 31 46 35",
+    "Fax": "(+212) 05 23 31 46 34",
+    "Site web": "www.univh2m.ac.ma"
+  },
+  {
+    "Ville": "Oujda",
+    "Nom": "Université Mohammed Premier",
+    "Adresse": "Présidence, B.P. 524 -Oujda",
+    "Téléphone": "(+212) 05 36 50 06 12",
+    "Fax": "(+212) 05 36 50 06 09",
+    "Site web": "webserver1.ump.ma/"
+  },
+  {
+    "Ville": "Rabat",
+    "Nom": "Université Mohammed V Agdal",
+    "Adresse": " Av.des Nations Unies, B.P: 554 Chellah -Rabat",
+    "Téléphone": "(+212) 05 37 27 27 50",
+    "Fax": "(+212) 05 37 67 14 01",
+    "Site web": "www.um5a.ac.ma/"
+  },
+  {
+    "Ville": "Rabat",
+    "Nom": "Université Mohammed V Souissi ",
+    "Adresse": "Av. Allal El Fassi et Mfadel Cherkaoui, 8007 -Rabat",
+    "Téléphone": "(+212) 05 37 77 43 87",
+    "Fax": "(+212) 05 37 68 11 63",
+    "Site web": "www.um5s.ac.ma/"
+  },
+  {
+    "Ville": "Settat",
+    "Nom": "Université Hassan Premier ",
+    "Adresse": "Complexe universitaire, km3, route de Casablanca",
+    "Téléphone": "(+212) 05 23 72 12 75 ",
+    "Fax": "(+212) 05 23 72 12 74",
+    "Site web": "www.uh1.ac.ma/"
+  },
+  {
+    "Ville": "Tétouan",
+    "Nom": "Université Abdelmalek Essaâdi",
+    "Adresse": "Rue Moulay El Hassan B.P : Martil 211 -Tétouan",
+    "Téléphone": "(+212) 05 39 97 91 28",
+    "Fax": "(+212) 05 39 97 90 53",
+    "Site web": "www.uae.ma/"
+  }
+]
